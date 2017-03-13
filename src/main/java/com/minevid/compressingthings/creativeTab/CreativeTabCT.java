@@ -13,7 +13,7 @@ public class CreativeTabCT {
     public static final CreativeTabs CT_TAB = new CreativeTabs(References.MOD_ID) {
         @Override
         public Item getTabIconItem() {
-            return Item.getItemFromBlock(null);
+            return Item.getItemFromBlock(ModBlocks.compressedDirt);
         }
         @Override
         public String getTranslatedTabLabel(){

@@ -1,7 +1,7 @@
 {
   "forge_marker": 1,
   "defaults": {
-    "model": "compressingthings:doublecompresseddirt"
+    "model": "compressingthings:triplecompresseddirt"
   },
   "variants": {
     "normal": [{}],
