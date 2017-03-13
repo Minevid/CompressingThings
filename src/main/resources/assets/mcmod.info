@@ -1,0 +1,17 @@
+[
+{
+  "modid": "compressingthings",
+  "name": "Compressing Things",
+  "description": "Adding a lot of compressed blocks from all over the Minecraft world",
+  "version": "1.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "Minevid aka Reynout" ],
+  "credits": "Created by Minevid aka Reynout",
+  "logoFile": "",
+  "screenshots": [],
+  "parent":"",
+  "dependencies": []
+}
+]
